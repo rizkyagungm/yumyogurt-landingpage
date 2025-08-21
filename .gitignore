@@ -1,0 +1,23 @@
+# Node modules (jika kamu menggunakan Node.js untuk pengembangan)
+node_modules/
+
+# Sistem file editor
+.vscode/
+.idea/
+
+# File log
+*.log
+
+# Sistem file OS
+.DS_Store
+Thumbs.db
+
+# Direktori build
+/dist/
+/build/
+
+# Cache browser
+.cache/
+
+# Temporary files
+*.tmp
