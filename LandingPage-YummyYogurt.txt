@@ -1,0 +1,146 @@
+Here's a structured landing page outline for your Korean Diet Yogurt Subscription service, with 6 sections including the Hero:
+
+**1. Hero Section (Header)**  
+- *Headline:* "Korean-Style Diet Yogurt Delivered Daily - Slim the Seoul Way!"  
+- *Sub-headline:* "Authentic Korean probiotic yogurt meals for effective weight management. Fresh, delicious & delivered to your door."  
+- *Visual:* Vibrant hero image showing appetizing Korean yogurt bowls with fresh fruits  
+- *CTA Buttons:*  
+  - "Get Started - 30% Off First Month" (primary)  
+  - "View Plans" (secondary)  
+
+**2. How It Works**  
+- *Title:* "Your Daily Wellness Journey in 3 Easy Steps"  
+- *Steps:*  
+  1️⃣ **Subscribe** - Choose your plan (Pro/Premium)  
+  2️⃣ **Customize** - Set dietary preferences & delivery schedule  
+  3️⃣ **Enjoy** - Fresh yogurt arrives daily at 6AM  
+- *Visual:* Animated process infographic  
+
+**3. Subscription Plans**  
+- *Title:* "Designed for Your Goals"  
+- *Plan Cards (side-by-side comparison):*  
+  - **PRO PLAN** ($99/month)  
+    - 1 curated yogurt meal/day  
+    - 30+ Korean-inspired recipes  
+    - Basic nutrition tracking  
+    - Free morning delivery  
+    - *CTA:* "Start Slimming →"  
+  - **PREMIUM PLAN** ($159/month) - *BEST VALUE badge*  
+    - 2 full yogurt meals/day (breakfast + dinner)  
+    - 50+ premium recipes  
+    - 1:1 nutritionist consultation  
+    - Priority delivery + custom meal adjustments  
+    - Digital wellness journal  
+    - *CTA:* "Get Premium →"  
+
+**4. Science & Benefits**  
+- *Title:* "Why Korean Yogurt Works"  
+- *Key Points:*  
+  - 🔬 **Probiotic Power**: 12 strains of clinically-studied Korean cultures  
+  - 🍓 **Clean Ingredients**: Locally-sourced fruits + organic dairy  
+  - ⚖️ **Portion Control**: Pre-measured calorie portions (350-450kcal/meal)  
+  - 📊 **Proven Results**: 92% of users lose 3-5kg in first month (internal study)  
+- *Visual:* Microscope animation showing probiotics + before/after customer photos  
+
+**5. Testimonials**  
+- *Title:* "Seoul Success Stories"  
+- *Customer Cards:*  
+  1. *Photo:* Happy customer with yogurt bowl  
+     *Quote:* "Lost 8kg while enjoying every meal! Better than any diet I've tried" - Sarah, Premium user (4 months)  
+  2. *Stats Card:* "Avg. weight loss: 4.2kg/month across 1,200+ subscribers"  
+  3. *Video Testimonial:* 15-sec clip of customer unboxing delivery  
+
+**6. FAQ & CTA**  
+- *Title:* "Your Questions Answered"  
+- *Key Questions:*  
+  Q: Can I pause my subscription?  
+  A: Yes! Skip weeks anytime via your dashboard  
+  Q: How are meals preserved during delivery?  
+  A: Temperature-controlled packaging (4°C)  
+  Q: Vegan options?  
+  A: Coconut-based yogurt available (select in preferences)  
+- *Final CTA Section:*  
+  *Headline:* "First 100 Sign-ups Get Free Korean Detox Tea Kit!"  
+  *Button:* "Claim Offer - Start My Trial"  
+
+7. Footer Column 1: Yogurt Diet
+[Logo] SeoulYogurt Diet
+"Korean probiotic solutions for sustainable weight loss"
+★★★★★ (5-star rating badge)
+"Trusted by 1,200+ members since 2023"
+
+Footer Column 2: Our Plans
+ProPlan (1 Meal/Day)
+Premium Plan (2 Meals/Day)
+Corporate Wellness
+Gift Subscriptions
+Seasonal Specials
+Referral Program
+
+Footer Column 3: Support
+Delivery Schedule
+Dietary Customization
+Pause/Cancel Policy
+FAQ Center
+Contact Nutritionist
+[Phone] +62 21 2345 6789
+[Email] care@seoulyogurtdiet.id
+
+Footer Column 4: Resources
+[Blog] Korean Diet Tips
+Recipe Gallery
+Success Stories
+Probiotic Research
+Download Nutrition Guide
+
+
+*Diet Tags Section*  
+*Heading:* "Explore Our Diet-Friendly Universe"  
+*Description:* "Discover the perfect pairings and categories to customize your Korean yogurt journey. Mix and match these diet-approved elements for your personalized wellness experience."  
+
+*Tags (15 Categories):*  
+1. Plain Yogurt  
+2. Whole Grain Bread  
+3. Low Fat Yogurt  
+4. Fresh Fruit  
+5. Crunchy Granola  
+6. Probiotic Boost  
+7. Keto-Friendly  
+8. High Protein  
+9. Gluten-Free  
+10. Low Sugar  
+11. Gut Health  
+12. Plant-Based Toppings  
+13. Overnight Soak  
+14. Korean Superfoods  
+15. Calorie-Conscious  
+
+---
+
+### *Key Rationale*  
+1. *Health Focus* - Tags like Probiotic Boost and Gut Health align with yogurt benefits  
+2. *Diet Trends* - Includes modern preferences (Keto-Friendly, Gluten-Free)  
+3. *Korean Theme* - Korean Superfoods reinforces cultural authenticity  
+4. *Usage Context* - Overnight Soak suggests breakfast prep methods  
+5. *Nutrition Profile* - Clear indicators like Low Sugar and High Protein  
+
+### *Suggested Placement*  
+Best positioned below subscription plans or delivery sections - acts as visual "snacking content" that:  
+- Breaks text-heavy sections  
+- Encourages customization imagination  
+- Improves SEO through keyword density  
+
+
+**Recommended UI Elements:**  
+- *Sticky Header:* With floating "Order Now" button  
+- *Delivery Zone Tracker:* ZIP code checker in footer  
+- *Flavor Rotator:* Auto-rotating yogurt flavors preview  
+- *Trust Badges:* Food safety certifications + Seoul Nutrition Association logo  
+
+**Key Features to Highlight:**  
+- Midnight kitchen prep (meals made <8hrs before delivery)  
+- Customizable toppings preferences  
+- Carbon-neutral delivery fleet  
+- No lock-in contracts  
+
+This structure focuses on conversion while establishing premium positioning. Would you like me to elaborate on any section or provide wireframe sketches?
